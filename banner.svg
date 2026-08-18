@@ -1,7 +1,7 @@
 <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
   <rect width="800" height="200" fill="#08090a"/>
-  <path d="M0,170 Q400,140 800,170 L800,200 L0,200 Z" fill="#0d1a0f"/>
-  <path d="M0,30 Q400,60 800,30 L800,0 L0,0 Z" fill="#0d1a0f"/>
+  <path d="M0,170 Q400,140 800,170 L800,200 L0,200 Z" fill="#08090a"/>
+  <path d="M0,30 Q400,60 800,30 L800,0 L0,0 Z" fill="#08090a"/>
   <text x="400" y="95" font-family="Inter,system-ui,sans-serif" font-size="44" font-weight="500" text-anchor="middle"><tspan fill="#f5f6f8">humanoid</tspan><tspan fill="#3ecf8e">·</tspan><tspan fill="#f5f6f8">studio</tspan></text>
   <text x="400" y="132" font-family="Inter,system-ui,sans-serif" font-size="14" fill="#8a8f96" text-anchor="middle">SysAdmin · Back-end Dev · Founder @humanoid·studio</text>
 </svg>
