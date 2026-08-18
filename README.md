@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:08090a,50:0d110e,100:08090a&height=200&section=header&text=humanoid%C2%B7studio&fontSize=48&fontColor=f5f6f8&animation=fadeIn&fontAlignY=38&desc=SysAdmin+%C2%B7+Back-end+Dev+%C2%B7+Founder+%40HumanoidStudio&descAlignY=56&descColor=8a8f96)
+![banner](banner.svg)
 
 <div align="center">
 
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td align="center" width="60">🌿</td>
-    <td><strong>EcologicLife</strong></td>
+    <td><strong><a href="https://ecologiclife.fr">EcologicLife</a></strong></td>
     <td>Eco-responsible web platform for an active client — Node.js full-stack, REST API, MongoDB.</td>
   </tr>
   <tr>
