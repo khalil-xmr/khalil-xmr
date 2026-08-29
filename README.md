@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=3ecf8e&center=true&vCenter=true&width=600&lines=khalil-xmr+%E2%80%94+building+quietly+since+2023;Web2+%C2%B7+Web3+%C2%B7+Linux+%C2%B7+Python+%C2%B7+Docker;Founder+%40HumanoidStudio+%C2%B7+Open+to+freelance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=3ecf8e&center=true&vCenter=true&width=600&lines=khalil-xmr%2C+building+quietly+since+2023;Web2+%C2%B7+Web3+%C2%B7+Linux+%C2%B7+Python+%C2%B7+Docker;Founder+%40HumanoidStudio+%C2%B7+Open+to+freelance)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,8 +25,8 @@
 
 `$ whoami`
 
-- SysAdmin by trade, back-end dev by choice — running infrastructure and shipping software since 2022
-- Founder of **humanoid·studio** — web agency · Web2/3 · e-commerce · open to missions
+- SysAdmin by trade, back-end dev by choice: running infrastructure and shipping software since 2022
+- Founder of **humanoid·studio**: web agency · Web2/3 · e-commerce · open to missions
 - Daily stack: Python · Node.js · Docker · Linux · MongoDB · REST APIs
 - Based in Thailand · Freelance remote since 2023
 
@@ -38,12 +38,12 @@
   <tr>
     <td align="center" width="60">🌿</td>
     <td><strong><a href="https://ecologiclife.fr">EcologicLife</a></strong></td>
-    <td>Eco-responsible web platform for an active client — Node.js full-stack, REST API, MongoDB.</td>
+    <td>Eco-responsible web platform for an active client: Node.js full-stack, REST API, MongoDB.</td>
   </tr>
   <tr>
     <td align="center" width="60">⬡</td>
     <td><strong><a href="https://humanoidstudio.com">humanoid·studio</a></strong></td>
-    <td>Web agency launching soon — Web 2.0 sites, Web3/DApps, e-commerce stores, SysAdmin services.</td>
+    <td>Web agency launching soon: Web 2.0 sites, Web3/DApps, e-commerce stores, SysAdmin services.</td>
   </tr>
 </table>
 
