@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=3ecf8e&center=true&vCenter=true&width=600&lines=humanoid%C2%B7studio+%E2%80%94+building+quietly+since+2023;Web2+%C2%B7+Web3+%C2%B7+Linux+%C2%B7+Python+%C2%B7+GTK3;Founder+%40HumanoidStudio+%C2%B7+Open+to+freelance;Open-source%3A+Clipse+for+XFCE4+%F0%9F%90%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=3ecf8e&center=true&vCenter=true&width=600&lines=khalil-xmr+%E2%80%94+building+quietly+since+2023;Web2+%C2%B7+Web3+%C2%B7+Linux+%C2%B7+Python+%C2%B7+Docker;Founder+%40HumanoidStudio+%C2%B7+Open+to+freelance)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,22 +23,18 @@
 
 ## About
 
-- 🖥️ SysAdmin by trade, back-end dev by choice — running infrastructure and shipping software since 2022
-- ⬡ Founder of **humanoid·studio** — web agency · Web2/3 · e-commerce · open to missions
-- 🐧 Maintainer of **[Clipse](https://github.com/khalil-xmr/clipse)** — a GTK3 clipboard manager for XFCE4, built in Python
-- ⚙️ Daily stack: Python · Node.js · Docker · Linux · MongoDB · REST APIs
-- 🌏 Based in Thailand · Freelance remote since 2023
+`$ whoami`
+
+- SysAdmin by trade, back-end dev by choice — running infrastructure and shipping software since 2022
+- Founder of **humanoid·studio** — web agency · Web2/3 · e-commerce · open to missions
+- Daily stack: Python · Node.js · Docker · Linux · MongoDB · REST APIs
+- Based in Thailand · Freelance remote since 2023
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:08090a,100:0d110e&height=2&section=header">
 
 ## What I'm Working On
 
 <table>
-  <tr>
-    <td align="center" width="60">🗂️</td>
-    <td><strong><a href="https://github.com/khalil-xmr/clipse">Clipse</a></strong></td>
-    <td>GTK3 clipboard manager for XFCE4 — history, search, tags, dark/light theme. Open-source, Python.</td>
-  </tr>
   <tr>
     <td align="center" width="60">🌿</td>
     <td><strong><a href="https://ecologiclife.fr">EcologicLife</a></strong></td>
@@ -75,7 +71,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![GTK3](https://img.shields.io/badge/GTK3-4A86CF?style=flat-square&logo=gnome&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-025E8C?style=flat-square&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
