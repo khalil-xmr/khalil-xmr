@@ -2,24 +2,21 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=3ecf8e&center=true&vCenter=true&width=600&lines=khalil-xmr%2C+building+quietly+since+2023;Web2+%C2%B7+Web3+%C2%B7+Linux+%C2%B7+Python+%C2%B7+Docker;Founder+%40HumanoidStudio+%C2%B7+Open+to+freelance)](https://git.io/typing-svg)
+![khalil-xmr, building quietly since 2023. Web2, Web3, Linux, Python, Docker. Founder at humanoid·studio, open to freelance.](assets/typing.svg)
 
 </div>
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=khalil-xmr&color=3ecf8e&style=flat-square&label=Profile+Views)
+[![LinkedIn](assets/badge-linkedin.svg)](https://www.linkedin.com/in/khalilrdjh/)
+[![X](assets/badge-x.svg)](https://x.com/Khalil_xmr)
+[![Email](assets/badge-email.svg)](mailto:khalil.redjah@outlook.fr)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalilrdjh/)
-[![Twitter](https://img.shields.io/badge/@Khalil__xmr-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Khalil_xmr)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khalil.redjah@outlook.fr)
-&nbsp;
-[![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)]()
-[![XFCE4](https://img.shields.io/badge/XFCE4-2284F2?style=flat-square&logo=xfce&logoColor=white)]()
+![Fedora, XFCE4](assets/badge-env.svg)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:08090a,100:0d110e&height=2&section=header">
+<img width="100%" height="2" src="assets/divider.svg" alt="">
 
 ## About
 
@@ -30,7 +27,7 @@
 - Daily stack: Python · Node.js · Docker · Linux · MongoDB · REST APIs
 - Based in Thailand · Freelance remote since 2023
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:08090a,100:0d110e&height=2&section=header">
+<img width="100%" height="2" src="assets/divider.svg" alt="">
 
 ## What I'm Working On
 
@@ -52,51 +49,33 @@
   </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:08090a,100:0d110e&height=2&section=header">
+<img width="100%" height="2" src="assets/divider.svg" alt="">
 
 ## Services @ humanoid·studio
 
 <div align="center">
 
-![Web 2.0](https://img.shields.io/badge/Web%202.0-3ecf8e?style=flat-square&logoColor=08090a)
-![E-commerce](https://img.shields.io/badge/E--commerce-F97316?style=flat-square&logoColor=white)
-![Web3 / DApps](https://img.shields.io/badge/Web3%20%2F%20DApps-F6851B?style=flat-square&logoColor=white)
-![SysAdmin Linux](https://img.shields.io/badge/SysAdmin%20Linux-3ecf8e?style=flat-square&logo=linux&logoColor=08090a)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-025E8C?style=flat-square&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Web 2.0, E-commerce, Web3 / DApps, SysAdmin Linux, REST APIs, DevOps](assets/badges-services.svg)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:08090a,100:0d110e&height=2&section=header">
+<img width="100%" height="2" src="assets/divider.svg" alt="">
 
 ## Tech Stack
 
 **Dev & Back-end**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-025E8C?style=flat-square&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F6851B?style=flat-square&logo=ethereum&logoColor=white)
+![Python, Node.js, JavaScript, REST API, MongoDB, MySQL, Web3](assets/badges-dev.svg)
 
 **Infra & Ops**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white)
-![XFCE4](https://img.shields.io/badge/XFCE4-2284F2?style=flat-square&logo=xfce&logoColor=white)
-![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white)
+![Docker, Git, Linux, Fedora, XFCE4, Veeam](assets/badges-infra.svg)
 
 **ITSM & Security**
 
-![ServiceNow](https://img.shields.io/badge/ServiceNow-00C58E?style=flat-square&logo=servicenow&logoColor=white)
-![Microsoft Intune](https://img.shields.io/badge/Intune-3ecf8e?style=flat-square&logo=microsoft&logoColor=08090a)
-![Bitdefender](https://img.shields.io/badge/Bitdefender-E3222A?style=flat-square&logo=bitdefender&logoColor=white)
+![ServiceNow, Intune, Bitdefender](assets/badges-itsm.svg)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:08090a,100:0d110e&height=2&section=header">
+<img width="100%" height="2" src="assets/divider.svg" alt="">
 
 ## GitHub Stats
 
@@ -110,7 +89,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:08090a,100:0d110e&height=2&section=header">
+<img width="100%" height="2" src="assets/divider.svg" alt="">
 
 ## Contribution Activity
 
@@ -128,4 +107,3 @@ Made with ❤️ &nbsp;·&nbsp; Thailand 🇹🇭 & France 🇫🇷 &nbsp;·&nbs
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:08090a,100:0d110e&height=100&section=footer)
