@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td align="center" width="60">⬡</td>
-    <td><strong><a href="https://humanoidstudio.com">humanoid·studio</a></strong></td>
+    <td><strong>humanoid·studio</strong></td>
     <td>Web agency launching soon: Web 2.0 sites, Web3/DApps, e-commerce stores, SysAdmin services.</td>
   </tr>
   <tr>
