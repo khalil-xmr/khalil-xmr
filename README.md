@@ -2,14 +2,13 @@
 
 <div align="center">
 
-![khalil-xmr, building quietly since 2023. Web2, Web3, Linux, Python, Docker. Founder at humanoid·studio, open to freelance.](assets/typing.svg)
+![khalil-xmr, building quietly since 2023. Web2, Web3, Linux, Python, Docker. Founder at humanoid·studio, websites, stores, Web3.](assets/typing.svg)
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](assets/badge-linkedin.svg)](https://www.linkedin.com/in/khalilrdjh/)
-[![X](assets/badge-x.svg)](https://x.com/Khalil_xmr)
+[![LinkedIn](assets/badge-linkedin.svg)](https://www.linkedin.com/in/khalilrdjh/) [![X](assets/badge-x.svg)](https://x.com/Khalil_xmr)
 &nbsp;
 ![Fedora, XFCE4](assets/badge-env.svg)
 
@@ -22,7 +21,7 @@
 `$ whoami`
 
 - SysAdmin by trade, back-end dev by choice: running infrastructure and shipping software since 2022
-- Founder of **humanoid·studio**: web agency · Web2/3 · e-commerce · open to missions
+- Founder of **humanoid·studio**, a freelance web studio. Websites and stores for small businesses, Web3 for crypto projects.
 - Daily stack: Python · Node.js · Docker · Linux · MongoDB · REST APIs
 - Based in Thailand · Freelance remote since 2023
 
@@ -34,12 +33,12 @@
   <tr>
     <td align="center" width="60">🌿</td>
     <td><strong><a href="https://ecologiclife.fr">EcologicLife</a></strong></td>
-    <td>Eco-responsible web platform for an active client: Node.js full-stack, REST API, MongoDB.</td>
+    <td>Active client project.</td>
   </tr>
   <tr>
     <td align="center" width="60">⬡</td>
     <td><strong>humanoid·studio</strong></td>
-    <td>Web agency launching soon: Web 2.0 sites, Web3/DApps, e-commerce stores, SysAdmin services.</td>
+    <td>Freelance web studio for small businesses and crypto projects: WordPress, e-commerce, Web3 and infrastructure.</td>
   </tr>
   <tr>
     <td align="center" width="60">◈</td>
@@ -54,7 +53,7 @@
 
 <div align="center">
 
-![Web 2.0, E-commerce, Web3 / DApps, SysAdmin Linux, REST APIs, DevOps](assets/badges-services.svg)
+![WordPress, E-commerce, Web3 / DApps, Infrastructure](assets/badges-services.svg)
 
 </div>
 
@@ -80,11 +79,11 @@
 
 <div align="center">
 
-[![stats](https://github-readme-stats.vercel.app/api?username=khalil-xmr&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/khalil-xmr)
+[![stats](https://github-readme-stats.vercel.app/api?username=khalil-xmr&show_icons=true&bg_color=08090a&title_color=3ecf8e&text_color=c7cace&icon_color=3ecf8e&hide_border=true&count_private=true)](https://github.com/khalil-xmr)
 
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalil-xmr&layout=compact&theme=github_dark&hide_border=true)](https://github.com/khalil-xmr)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalil-xmr&layout=compact&bg_color=08090a&title_color=3ecf8e&text_color=c7cace&hide_border=true)](https://github.com/khalil-xmr)
 
-[![streak](https://streak-stats.demolab.com?user=khalil-xmr&theme=github-dark-blue&hide_border=true)](https://github.com/khalil-xmr)
+[![streak](https://streak-stats.demolab.com?user=khalil-xmr&background=08090A&ring=3ecf8e&fire=3ecf8e&currStreakNum=f5f6f8&sideNums=f5f6f8&currStreakLabel=3ecf8e&sideLabels=8a8f96&dates=8a8f96&hide_border=true)](https://github.com/khalil-xmr)
 
 </div>
 
