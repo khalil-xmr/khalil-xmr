@@ -45,6 +45,11 @@
     <td><strong><a href="https://humanoidstudio.com">humanoid·studio</a></strong></td>
     <td>Web agency launching soon: Web 2.0 sites, Web3/DApps, e-commerce stores, SysAdmin services.</td>
   </tr>
+  <tr>
+    <td align="center" width="60">◈</td>
+    <td><strong><a href="https://github.com/Marlodevfs/donotkyc">DoNotKYC</a></strong></td>
+    <td>Contributor to an open directory of no-KYC crypto platforms, built with Marlodevfs.</td>
+  </tr>
 </table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:08090a,100:0d110e&height=2&section=header">
