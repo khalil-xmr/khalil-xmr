@@ -10,7 +10,6 @@
 
 [![LinkedIn](assets/badge-linkedin.svg)](https://www.linkedin.com/in/khalilrdjh/)
 [![X](assets/badge-x.svg)](https://x.com/Khalil_xmr)
-[![Email](assets/badge-email.svg)](mailto:khalil.redjah@outlook.fr)
 &nbsp;
 ![Fedora, XFCE4](assets/badge-env.svg)
 
