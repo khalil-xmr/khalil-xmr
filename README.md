@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td align="center" width="60">⬡</td>
-    <td><strong>humanoid·studio</strong></td>
+    <td><strong><a href="https://humanoidstudio.dev">humanoid·studio</a></strong></td>
     <td>Freelance web studio for small businesses and crypto projects: WordPress, e-commerce, Web3 and infrastructure.</td>
   </tr>
   <tr>
